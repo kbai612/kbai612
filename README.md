@@ -4,7 +4,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Kevin, Data Analyst/Engineer based in Toronto, Ontario. I have extensive experience working in agile environment on several projects in the data space .</h3>
+<h3 align="left">Hi 👋, I'm Kevin, Data Analyst/Engineer based in Toronto, Ontario. I have extensive experience working in agile environments on several projects in the data space.</h3>
 &emsp;
 
 -------------------
