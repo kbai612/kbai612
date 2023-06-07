@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Berkeli</h1>
+<h1 align="center">Hi 👋, I'm Kevin</h1>
 
 <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, I'm Kevin, Data Analyst/Engineer based in Toronto, Ontario. I have extensive experience working in agile environment on several projects in the data space .</h3>
 &emsp;
 
 -------------------
@@ -24,29 +24,20 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/kevin-bai/">
+    ![Linkedin: Kevin Bai](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
+<a href="https://www.instagram.com/photosbaikevin/">
+    ![Instagram: photosbaikevin](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a>
-<a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+<a href="https://github.com/kbai612">
+    ![GitHub: kbai612](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
 </a>
-<a href="https://github.com/berkeli">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
+<a href="https://www.codewars.com/users/kbai612">
+    ![CodeWars: kbai612](https://www.codewars.com/users/BerkeliH/badges/small)
 </a>
 <a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
+    ![LeetCode: kbai612](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
 </a>
 
 &emsp;
