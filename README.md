@@ -25,7 +25,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/kevin-bai/">
-    ![Linkedin: Kevin Bai](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Kevin Bai](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://www.instagram.com/photosbaikevin/">
     ![Instagram: photosbaikevin](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
