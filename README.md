@@ -44,47 +44,33 @@
 
 ## 🛠️ My Skills
 -------------------
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
-### Frontend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
-### Services & Frameworks: 
+### Data Visualisation Tools: 
 &emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
+
+### Database Tools:
+&emsp;
+
+### Programming languages:
+&emsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+
+
+### Cloud Based tools:
+&emsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+
 
 
 ### Databases:
