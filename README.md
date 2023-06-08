@@ -19,28 +19,6 @@
 
 &emsp;
 
-## Me around the web:
--------------------
-
-
-&emsp;
-<a href="https://www.linkedin.com/in/kevin-bai/">
-    ![Linkedin: Kevin Bai](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://www.instagram.com/photosbaikevin/">
-    ![Instagram: photosbaikevin](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/kbai612">
-    ![GitHub: kbai612](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://www.codewars.com/users/kbai612">
-    ![CodeWars: kbai612](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: kbai612](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-
-&emsp;
 
 ## 🛠️ My Skills
 -------------------
@@ -69,6 +47,30 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## Me around the web:
+-------------------
+
+
+&emsp;
+<a href="https://www.linkedin.com/in/kevin-bai/">
+    ![Linkedin: Kevin Bai](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="https://www.instagram.com/photosbaikevin/">
+    ![Instagram: photosbaikevin](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+</a>
+<a href="https://github.com/kbai612">
+    ![GitHub: kbai612](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+</a>
+<a href="https://www.codewars.com/users/kbai612">
+    ![CodeWars: kbai612](https://www.codewars.com/users/BerkeliH/badges/small)
+</a>
+<a href="https://www.leetcode.com/berkeli/">
+    ![LeetCode: kbai612](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
+</a>
+
+&emsp;
+
 
 ------
 Last Edited on: 02/01/2023
