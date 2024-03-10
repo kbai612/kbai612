@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-
 <img src="Assets/header.png" align="center" alt="berkeli header image">
 
 -------------------
