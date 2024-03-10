@@ -1,74 +1,36 @@
 <img src="Assets/header.png" align="center" alt="berkeli header image">
 
 -------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Kevin, Data Analyst/Engineer based in Toronto, Ontario. I have extensive experience working in agile environments on several projects in the data space.</h3>
-&emsp;
+## About Me
+
+Hello, tech enthusiasts! 😄 I'm Kevin Bai, a passionate **data scientist** and **data analyst**. I thrive on turning complex data into valuable insights and building scalable web applications. In this dynamic tech landscape, I'm driven by the desire to make data science accessible and to craft intuitive digital experiences.
 
 -------------------
-&emsp;
+## Skills
 
-- 🔭 I’m currently working on [Maven Coffee](https://mentor.love/) for CYF Products. 
+### Data Science
+- **Data Analysis:** From cleaning and transforming data to performing exploratory analysis, I thrive on extracting meaningful information from diverse datasets.
+- **Machine Learning:** Applying various algorithms and models to train predictive models and make accurate predictions is one of my core strengths.
+- **Data Visualization:** Presenting data in a visually appealing and informative manner using charts, graphs, and interactive dashboards is my forte.
+- **Statistical Analysis:** Leveraging statistical methods to uncover patterns, validate hypotheses, and derive actionable insights.
+- **Python Programming:** Proficient in Python, I utilize its rich ecosystem of libraries such as Pandas, NumPy, and Scikit-learn to streamline data workflows.
+- **SQL:** Comfortable with SQL, I can efficiently query and manipulate databases to extract the required information.
+- **Methodologies:** Machine Learning, Deep Learning, Data Mining, Natural Language Processing, Advanced Statistics, AI, Big Data Analytics, Exploratory Data Analysis, Data Preprocessing.
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib), R (Dplyr, Ggplot2), SQL, C++, Java, JavaScript (React, Node, Express, Next), Typescript.
+- **Tools:** Jupyter Notebook, Tableau, Git, Flask, MS Excel, VS Code, R Studio, Eclipse, MongoDB.
 
-- 📚 I'm also doing the [Advanced DAX ](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+### Data Analysis:
+- **Frontend:** Crafting responsive UIs with JavaScript, React, Next.js and TailwindCSS.
+- **Backend:** Building robust APIs using Node and Express.
+- **Database:** Managing data with MongoDB and SQL databases.
+- **Languages:** Proficient in JavaScript (React, Node, Express, Next), Typescript, C++, and Java.
+- **Tools:** VS Code, Git, Eclipse.
 
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
-- 💬 Ask me about **Azure, ETL Tools, SQL Databases**
-
-&emsp;
-
-
-## 🛠️ My Skills
--------------------
-
-### Data Visualisation Tools: 
-&emsp;
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-### Database Tools:
-&emsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Programming languages:
-&emsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-
-### Cloud Based tools:
-&emsp;
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## Me around the web:
--------------------
-
-
-&emsp;
-<a href="https://www.linkedin.com/in/kevin-bai/">
-    ![Linkedin: Kevin Bai](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://www.instagram.com/photosbaikevin/">
-    ![Instagram: photosbaikevin](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/kbai612">
-    ![GitHub: kbai612](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://www.codewars.com/users/kbai612">
-    ![CodeWars: kbai612](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: kbai612](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-
-&emsp;
+### Data Projects:
+Check out some of my noteworthy projects:
+1. a 
+2. b
+3. c
 
 
 ------
